@@ -30,6 +30,11 @@ Digite a nota do 1º semestre: 6.5 Digite a nota do 2º semestre: 7.8 Digite o t
 
 Média final: 7.3 Frequência: 90.0% Resultado: Aprovado ✅
 
+## 🧑‍💻 Autor
+
+**Matheus Moya Oliveira**  
+[LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/) | [GitHub](https://github.com/matheusmoyaoliveira)
+
 ## 🚀 Tecnologias
 
 - Python 3
@@ -44,8 +49,3 @@ git clone https://github.com/matheusmoyaoliveira/calculadora-media-frequencia.gi
 cd calculadora-media-frequencia
 
 python main.py
-
-## 🧑‍💻 Autor
-
-**Matheus Moya Oliveira**  
-[LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/) | [GitHub](https://github.com/matheusmoyaoliveira)
