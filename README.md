@@ -26,3 +26,26 @@ Consolidar os conhecimentos iniciais de lógica de programação, uso de `input`
 
 ## 🖥️ Exemplo de uso
 
+Digite a nota do 1º semestre: 6.5 Digite a nota do 2º semestre: 7.8 Digite o total de aulas: 60 Digite quantas aulas você assistiu: 54
+
+Média final: 7.3 Frequência: 90.0% Resultado: Aprovado ✅
+
+## 🚀 Tecnologias
+
+- Python 3
+
+## 📁 Como executar
+
+1. Clone este repositório:
+```bash
+
+git clone https://github.com/matheusmoyaoliveira/calculadora-media-frequencia.git
+
+cd calculadora-media-frequencia
+
+python main.py
+
+## 🧑‍💻 Autor
+
+**Matheus Moya Oliveira**  
+[LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/) | [GitHub](https://github.com/matheusmoyaoliveira)
